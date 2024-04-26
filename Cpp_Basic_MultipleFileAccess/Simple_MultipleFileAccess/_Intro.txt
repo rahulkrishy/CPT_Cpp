@@ -1,0 +1,48 @@
+/*
+This is an Intro File - Open this folder as seperate environment and then run or else conflicts occurs with other environments (differents .vscode task.json configuration).
+
+".vscode" folder is a directory created by Visual Studio Code to store configuration settings and tasks related to a specific project.
+
+"task.json" is used to define tasks or build configurations, allowing you to specify how your project should be built and run.
+"settings.json" lets you customize various aspects of your development environment, such as editor preferences and workspace settings.
+"c_cpp_properties.json" is specifically used for configuring IntelliSense settings in C++ projects. It allows you to tailor code completion and syntax highlighting for a more personalized development experience.
+
+*/
+
+/*    "tasks.json"
+
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: Build with GCC (All_One_Compile) Mingw",   //--> Build with g++.exe 
+			"command": "C:\\mingw64\\bin\\g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",                             // Use colored diagnostics for better visibility
+				"-g",																											// Generate debug information
+				"-std=c++20",                                             //--> Use C++20 standard
+				"${workspaceFolder}\\*.cpp",                              //--> Compile all .cpp files in the folder and subfolders, linking them next 
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"          //--> Output an executable with the same base name as the source file in the file's directory
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build",
+			"detail": "compiler: C:\\mingw64\\bin\\g++.exe"
+		},
+	]
+}
+
+*/
+
+/*
+
+The One Definition Rule (ODR) in C++ ensures that there is "only one definition" for each entity (variable, function, class, etc.)
+in the entire program, preventing duplication and ensuring consistency.
+
+*/
