@@ -1,0 +1,11 @@
+module;
+module math;
+
+import <iostream>;
+
+//Preamble
+
+//Implementations
+double subtract(double a, double b) {
+	return a - b;
+}
