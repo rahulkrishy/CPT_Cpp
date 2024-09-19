@@ -140,13 +140,13 @@ This section forms the foundation of your C++ programming learning path. Each su
    - `FileHandling-Write_Read_1`
    - `FileHandling-Write_Read_2`
 
-- **zTemplate-SingleFileAccess**
+- **zTemplate-SingleFileAccess** - `.vscode tasks.json` template file for Visual Studio Code
 
 ---
 
 ### Cpp_Concepts_MultipleFileAccess
 
-This section covers advanced C++ concepts with multiple file access techniques.
+This section covers advanced C++ concepts with multiple file access techniques(Folder wise execution).
 
 - `Simple_MultipleFileAccess`
 - `Oops_MultipleFileAccess`
