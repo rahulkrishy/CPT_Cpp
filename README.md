@@ -185,6 +185,8 @@ This folder contains project-based tasks designed to apply and reinforce key con
 
 I'm continuously adding new concepts, tasks, and exercises to this repository. If you have any feedback or suggestions to improve it, feel free to share your thoughts. Stay tuned for updates, and until then, keep practicing. Greets!✌🏻
 
+---
+
 ## 📜 License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
