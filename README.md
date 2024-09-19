@@ -12,7 +12,7 @@
 ---
 ## 📖 Repository Content
 
-### Cpp_Concepts
+### Cpp_Concepts:
 
 This section forms the foundation of your C++ programming learning path. Each subtopic delves into a core concept in C++ programming and includes practical code examples.
 
@@ -144,7 +144,7 @@ This section forms the foundation of your C++ programming learning path. Each su
 
 ---
 
-### Cpp_Concepts_MultipleFileAccess
+### Cpp_Concepts_MultipleFileAccess:
 
 This section covers advanced C++ concepts with multiple file access techniques(Folder wise execution).
 
@@ -164,7 +164,7 @@ This section covers advanced C++ concepts with multiple file access techniques(F
 
 ---
 
-### Cpp_Practice
+### Cpp_Practice:
 
 This folder provides a collection of coding exercises aimed at helping you master key concepts.
 
@@ -175,7 +175,7 @@ This folder provides a collection of coding exercises aimed at helping you maste
 
 ---
 
-### Cpp_Tasks
+### Cpp_Tasks:
 
 This folder contains project-based tasks designed to apply and reinforce key concepts in C++ programming.
 
