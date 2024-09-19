@@ -1,7 +1,7 @@
-# Welcome to the ELP(Explore-Learn-Practice)_C++ Programming Language Learning Guide! 👨🏻‍💻🚀
+# Welcome to the CPT(Concepts-Practices-Tasks)_C++ Programming Language Learning Guide! 👨🏻‍💻🚀
 ---
 ## 📚 About This Repository
-✧ This repository is designed to help you explore, learn, and practice C++ programming, starting from the basics and advancing to complex topics. Whether you're a beginner or an experienced coder, this learning path will help you sharpen your C++ programming skills. <br>
+✧ This repository is designed to guide you through fundamental concepts, offer hands-on practices, and engage with real-world tasks in C++ programming, starting from the basics and advancing to complex topics. <br>
 ✧ The repository is divided into multiple folders containing lessons and practice exercises for a specific topic.
 
 ## 📋 Table of Contents
@@ -164,7 +164,7 @@ This section covers advanced C++ concepts with multiple file access techniques(F
 
 ---
 
-### Cpp_Practice:
+### Cpp_Practices:
 
 This folder provides a collection of coding exercises aimed at helping you master key concepts.
 
@@ -183,7 +183,7 @@ This folder contains project-based tasks designed to apply and reinforce key con
 
 ## 📢 Stay Tuned for More Updates!
 
-I'm continuously adding new content, tasks, and exercises to this repository. If you have any feedback or suggestions to improve it, feel free to share your thoughts. Stay tuned for updates, and until then, keep practicing. Greets!✌🏻
+I'm continuously adding new concepts, tasks, and exercises to this repository. If you have any feedback or suggestions to improve it, feel free to share your thoughts. Stay tuned for updates, and until then, keep practicing. Greets!✌🏻
 
 ## 📜 License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
