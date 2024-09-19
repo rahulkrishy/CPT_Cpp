@@ -7,7 +7,7 @@
 ## 📋 Table of Contents
 1. [Cpp_Concepts](#cpp_concepts)  
 2. [Cpp_Concepts_MultipleFileAccess](#cpp_concepts_multiplefileaccess)  
-3. [Cpp_Practice](#cpp_practice)  
+3. [Cpp_Practices](#cpp_practices)  
 4. [Cpp_Tasks](#cpp_tasks)  
 ---
 ## 📖 Repository Content
