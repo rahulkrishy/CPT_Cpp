@@ -33,7 +33,6 @@ int main(){
   for(size_t i{0}; i<size(message); ++i){
     message1[i] = toupper(message[i]);
   }
-
   cout<<"UPPERCASE: "<<message1<<endl;
 
 }
