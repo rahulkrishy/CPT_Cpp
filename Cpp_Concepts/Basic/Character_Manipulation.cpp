@@ -1,5 +1,6 @@
 // Character manipulation - modifying individual characters in a string
-#include<iostream>
+#include<bits/stdc++.h>
+// #include<iostream>
 // #include<cctype>
 using namespace std;
 
@@ -9,7 +10,7 @@ int main(){
   char message1[size(message)];
 
   // Check count in c String 
-  cout<<"Found blank at index ";
+  cout<<"Number at index ";
   for(size_t i {0}; i<size(message); ++i){
     if(isdigit(message[i])){
       cout<<"["<<i<<"] ";
@@ -17,7 +18,7 @@ int main(){
     }
   }
   cout<<endl;
-  cout<<"BlankSpace count: "<<count<<endl;
+  cout<<"Number count: "<<count<<endl;
 
   // Check upperCase
   count = 0;
