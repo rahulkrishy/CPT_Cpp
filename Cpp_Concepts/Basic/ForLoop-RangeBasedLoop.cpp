@@ -24,7 +24,7 @@ int main()
     }
 	std::cout << std::endl;
 
-  // Modifing by pointers
+  // Modifing by pointers or References
    for ( auto& score : scores){
         score = score * 10;
     }
